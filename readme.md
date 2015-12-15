@@ -4,6 +4,7 @@
 
 ## Changes
 
+- Nicer git status display
 - Add virtualenv info before the path
 
 ## License
